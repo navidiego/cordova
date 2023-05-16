@@ -1,14 +1,20 @@
 Port 80(Mokhaberat):
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplWXNWTHZxdzd3Nk03NzhTODZRcm9C@poland.navid.lat:80/?outline=1
+
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpub294Qjc1bHpTajdwUTlwT1FjUjhH@us.navid.lat:80/?outline=1
+
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsUG05aTZWdW5zUURBWG55ZVZZQTNL@sw.navid.lat:80/?outline=1
+
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpUNG1hYXFseHllNkNlOVdNTHF1Q1hl@nl.navid.lat:80/?outline=1
 
 --------------------------------------------------------------------------------------------------------
 MCI :
-
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ckNHeGVuT3l6S1NUeFJWeklLaU5j@us.navid.lat:26740#NavidVPN%20USA%20🇺🇸
+
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp4elExV2l2elNxRDZEa3VPRjlCVVRa@poland.navid.lat:62746#NavidVPN%20Poland%20🇵🇱
+
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp6azFlTUlyN1pIZmxXQ3BReVVKdFBa@sw.navid.lat:3158#NavidVPN%20Sweden%20🇸🇪
+
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZV1RRY0c3aURTN1VoZHQyNE96Q3I4@nl.navid.lat:39931#NavidVPN%20Netherlands%20🇳🇱
+
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpySGdSRFg4M2ZlelVQMTZDbG5SVEdy@nl.navid.lat:8443#NavidVPN%20Netherlands%20🇳🇱
