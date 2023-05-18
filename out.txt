@@ -20,3 +20,5 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp6azFlTUlyN1pIZmxXQ3BReVVKdFBa@sw.navid.lat:3
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZV1RRY0c3aURTN1VoZHQyNE96Q3I4@nl.navid.lat:39931#NavidVPN%20Netherlands%20🇳🇱
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpySGdSRFg4M2ZlelVQMTZDbG5SVEdy@nl.navid.lat:8443#NavidVPN%20Netherlands%20🇳🇱
+
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphM1F1ZjdnaTZRUTBHQzNPWDBLTHFo@nw.navid.lat:11265#NavidVPN%20Norway%20🇳🇴
