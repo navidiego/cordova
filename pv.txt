@@ -1,4 +1,3 @@
-
 vless://ceae3211-c446-4dbe-8e8e-785e8ec20257@172.66.139.109:443?path=%2F&security=tls&encryption=none&insecure=0&host=nov.navid.lat&fp=chrome&type=ws&allowInsecure=0&sni=nov.navid.lat#Germany%2001%20%F0%9F%87%A9%F0%9F%87%AA%20CL%20NavidVPN
 vless://ceae3211-c446-4dbe-8e8e-785e8ec20257@172.64.88.81:443?path=%2F&security=tls&encryption=none&insecure=0&host=nov.navid.lat&fp=chrome&type=ws&allowInsecure=0&sni=nov.navid.lat#Germany%2002%20%20%F0%9F%87%A9%F0%9F%87%AA%20CL%20NavidVPN
 vless://ceae3211-c446-4dbe-8e8e-785e8ec20257@172.67.171.41:443?path=%2F&security=tls&encryption=none&insecure=0&host=nov.navid.lat&fp=chrome&type=ws&allowInsecure=0&sni=nov.navid.lat#Germany%2003%20%F0%9F%87%A9%F0%9F%87%AA%20CL%20NavidVPN
